@@ -11,6 +11,7 @@ Tools and Technologies
 - Fail2ban: Intrusion detection system
 - WatchGuard XTMv: Firewall
 - Ubuntu Server: DMZ configuration
+<img width="1029" alt="Screenshot 2024-11-30 at 2 17 06 PM" src="https://github.com/user-attachments/assets/8b3c0784-cc4e-4f69-be80-e1df8e64cb41">
 
 Implementation Steps
 1. Network Topology Setup
