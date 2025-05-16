@@ -1,5 +1,5 @@
 # Advanced-Network-Security
-Secure Network Design and Implementation project
+# Secure Network Design and Implementation project
 
 Overview
 This project simulates a secure network environment using tools like GNS3, VMware Workstation, and Kali Linux. Key components include firewalls, VLANs, VPNs, and IDS. The project aims to assess and enhance network security through testing and risk mitigation.
